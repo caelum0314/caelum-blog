@@ -1,9 +1,42 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 🍒 Pinpe
 
-::github{repo="saicaca/fuwari"}
+## 🗃️ 身份证 | ID カード
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+- **性别**：男
+- **生日**：2008 年 4 月 28 日
+- **生肖**：鼠
+- **星座**：金牛座
+- **居住地**：江苏 常州
+- **标签**：00后 学生 高血压患者 INTP-T 轻度二次元
+
+## 🔬 专业和技术栈 | 専門と技術スタック
+
+### ✨ 学籍卡 ✨
+- **持证人**：Pinpe
+- **学历**：五年一贯制大专
+- **专业**：计算机网络技术
+
+### 技术栈
+
+| 用途分类 | 技术栈 |
+|---------|-------|
+| 网络开发 | 语言：HTML CSS JavaScript Python<br>框架：Flask Astro Vue jQuery |
+| 游戏开发 | 引擎：RPG Maker Ren'Py<br>语言：Ren'Py Script |
+| 杂项 | 代码编辑器：Visual Studio Code<br>操作系统：Linux(EndeavourOS) Windows<br>Shell：Fish Bash |
+
+## 🌾 精神食粮 | 心の糧
+
+### 🎼 音乐
+- 2023 年寒假听的 《延误列车》 ，是我听的第一首 VOCALOID 音乐，彻底改变了我的音乐偏好。
+- 目前，我最喜欢的音乐作者是海茶，其中两首作品特别推荐：
+  - 🏖️ クモヒトデのうまる砂の上で（就在那埋着蛇尾海星的沙滩之上）
+  - 🛤️ なんとか鉄道の夕（尽力而行的铁道黄昏）
+
+### 🎮 游戏
+- 我的游戏史可以追溯到小学一年级，当时第一个喜欢的游戏就是 《Minecraft》，算起来也是 10 年老玩家了。
+- 直到目前，我也钟爱于独立、像素风、剧情优先的游戏，例如 《OMORI》、《Deltarune》、《OneShot》 等。
+
+## 📮 联系方式 | 連絡先
+
+**WARNING**
+原 QQ 号 813233375 已成为小号，日常不会去看，建议联系新号。
