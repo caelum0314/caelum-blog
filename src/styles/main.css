@@ -5,7 +5,7 @@
         @apply rounded-[var(--radius-large)] overflow-hidden bg-[var(--card-bg)] transition duration-300;
     }
     
-    /* Pinpe.top style card hover effect */
+    /* Caelum style card hover effect */
     .card-hover {
         @apply transition-all duration-300;
         &:hover {
@@ -21,7 +21,7 @@
         @apply drop-shadow-[0_2px_4px_rgba(0,0,0,0.005)]
     }
     
-    /* Scale animation for buttons - pinpe.top style */
+    /* Scale animation for buttons - Caelum style */
     .scale-animation {
         @apply transition-all duration-200;
         &:hover {
@@ -133,13 +133,13 @@
         @apply bg-[oklch(0.75_0.14_var(--hue))] dark:bg-[oklch(0.75_0.14_var(--hue))]
     }
     
-    /* Gradient text - pinpe.top style */
+    /* Gradient text - Caelum style */
     .gradient-text {
         @apply bg-clip-text text-transparent;
         background-image: linear-gradient(135deg, oklch(0.70 0.14 var(--hue)), oklch(0.75 0.14 calc(var(--hue) + 30)));
     }
     
-    /* Glass effect - pinpe.top style */
+    /* Glass effect - Caelum style */
     .glass-effect {
         @apply backdrop-blur-md bg-white/70 dark:bg-black/50;
     }
@@ -195,7 +195,7 @@
   }
 }
 
-/* Banner animation - pinpe.top style */
+/* Banner animation - Caelum style */
 #banner-wrapper {
     @apply transition-all duration-700;
 }
