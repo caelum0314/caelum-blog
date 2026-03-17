@@ -53,17 +53,17 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/caelum",
+			url: "https://github.com/",
 		},
 		{
 			name: "QQ",
 			icon: "fa6-brands:qq",
-			url: "https://qm.qq.com/q/123456789",
+			url: "https://qm.qq.com/q/",
 		},
 		{
 			name: "Email",
 			icon: "fa6-solid:envelope",
-			url: "mailto:caelum@example.com",
+			url: "mailto:",
 		},
 	],
 };
