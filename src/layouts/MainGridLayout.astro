@@ -55,24 +55,21 @@ const mainPanelTop = "5.5rem";
                   src={siteConfig.banner.src} position={siteConfig.banner.position}
     >
         <div class="absolute inset-0 bg-gradient-to-b from-black/50 to-black/30 z-10"></div>
-        <div class="absolute inset-0 flex flex-col items-center justify-center z-20">
-            {siteConfig.banner.text && <h1 class="text-white text-3xl md:text-5xl lg:text-6xl font-bold text-center drop-shadow-lg opacity-0 animate-fade-in-up" style="animation-delay: 500ms; animation-fill-mode: forwards;">
-                {siteConfig.banner.text}
-            </h1>}
-            {siteConfig.banner.subText && <p class="text-white text-lg md:text-xl lg:text-2xl text-center drop-shadow-lg mt-4 opacity-0 animate-fade-in-up" style="animation-delay: 800ms; animation-fill-mode: forwards;">
-                {siteConfig.banner.subText}
-            </p>}
+        <div class="absolute inset-0 flex items-center justify-center z-20">
+            <h1 class="text-white text-4xl md:text-6xl font-bold text-center drop-shadow-lg">
+                欢迎来到 Caelum 的博客
+            </h1>
         </div>
     </ImageWrapper>
 </div>}
 
 <!-- Main content -->
-<div class="w-full z-30 pt-[100vh]">
-    <div class="bg-[var(--page-bg)] min-h-screen">
-        <div class="relative max-w-[var(--page-width)] mx-auto py-8 px-0 md:px-4">
-            <div id="main-grid" class="transition duration-700 w-full left-0 right-0 grid grid-cols-[17.5rem_auto] grid-rows-[auto_1fr_auto] lg:grid-rows-[auto]
-    mx-auto gap-4 onload-animation"
-            >
+<div class="absolute w-full z-30 pointer-events-none" style={`top: ${mainPanelTop}`}>
+    <!-- The pointer-events-none here prevent blocking the click event of the TOC -->
+    <div class="relative max-w-[var(--page-width)] mx-auto pointer-events-auto">
+        <div id="main-grid" class="transition duration-700 w-full left-0 right-0 grid grid-cols-[17.5rem_auto] grid-rows-[auto_1fr_auto] lg:grid-rows-[auto]
+    mx-auto gap-4 px-0 md:px-4"
+        >
             <!-- Banner image credit -->
             {hasBannerCredit && <a href={siteConfig.banner.credit.url} id="banner-credit" target="_blank" rel="noopener" aria-label="Visit image source"
                                    class:list={["group onload-animation transition-all absolute flex justify-center items-center rounded-full " +
@@ -107,7 +104,6 @@ const mainPanelTop = "5.5rem";
 
         <BackToTop></BackToTop>
     </div>
-    </div>
 </div>
 
 <!-- The things that should be under the banner, only the TOC for now -->
@@ -115,7 +111,8 @@ const mainPanelTop = "5.5rem";
     <div class="relative max-w-[var(--page-width)] mx-auto">
         <!-- TOC component -->
         {siteConfig.toc.enable && <div id="toc-wrapper" class:list={["hidden lg:block transition absolute top-0 -right-[var(--toc-width)] w-[var(--toc-width)] items-center",
-            {"toc-hide": siteConfig.banner.enable}]}>
+            {"toc-hide": siteConfig.banner.enable}]}
+        >
             <div id="toc-inner-wrapper" class="fixed top-14 w-[var(--toc-width)] h-[calc(100vh_-_20rem)] overflow-y-scroll overflow-x-hidden hide-scrollbar">
                 <div id="toc" class="w-full h-full transition-swup-fade ">
                     <div class="h-8 w-full"></div>
