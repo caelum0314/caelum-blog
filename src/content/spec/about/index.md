@@ -20,7 +20,7 @@
 
 # 😘 你好，我是caelum ✨
 
-![](a.png)
+![](IMG_4596.JPG)
 
 ## 🗃️ 身份证 | IDカード
 
@@ -51,7 +51,7 @@
     </table>
 </div>
 
-![](b.jpg)
+![](IMG_4595.JPG)
 
 ## 🔬 专业和技术栈 | 専門と技術スタック
 
@@ -70,11 +70,11 @@
 ||框架|`Flask` `Astro` `Vue` `jQuery`|
 |**🎮 游戏开发**|引擎|`RPG Maker` `Ren'Py`|
 ||语言|`Ren'Py Script`|
-|**🧩 杂项**|代码编辑器|`Visual Studio Code`|
-||操作系统|`Linux(EndeavourOS)` `Windows`|
+|**🧩 杂项**|代码编辑器|`Visual Studio Code``Claude code``Cursor``Trae`|
+||操作系统|`ArchLinux` `Windows`|
 ||Shell|`Fish` `Bash`|
 
-![](c.png)
+![](IMG_4593.JPG)
 
 ## 🌾 精神食粮 | 心の糧
 
@@ -100,7 +100,7 @@
 
 👾 直到目前，我也钟爱于**独立**、**像素风**、**剧情优先**的游戏，例如 **《OMORI》**、**《Deltarune》**、**《OneShot》** 等。
 
-![](d.png)
+![](IMG_4594.JPG)
 
 ## 📮 联系方式 | 連絡先
 
