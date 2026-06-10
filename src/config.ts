@@ -83,7 +83,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: "源代码",
       icon: "fa6-brands:github",
-      url: "https://github.com/Pinpe/Pinpe-top",
+      url: "https://github.com/caelum0314/caelum-blog",
     },
     {
       name: "订阅",
