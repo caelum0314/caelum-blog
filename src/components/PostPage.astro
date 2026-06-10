@@ -1,0 +1,32 @@
+---
+import { getPostUrlBySlug } from '@utils/url-utils'
+import PostCard from './PostCard.astro'
+import RandomPostCard from './RandomPostCard.astro' //导入组件
+const { page } = Astro.props
+
+let delay = 0
+const interval = 50
+---
+
+<div class="transition flex flex-col rounded-[var(--radius-large)] bg-[var(--card-bg)] py-1 md:py-0 md:bg-transparent md:gap-4 mb-4">
+    <!-- 激活组件 -->
+    <RandomPostCard />
+    
+    {page.data.map((entry, i) => (
+        <PostCard
+            entry={entry}
+            title={entry.data.title}
+            tags={entry.data.tags}
+            category={entry.data.category}
+            published={entry.data.published}
+            updated={entry.data.updated}
+            url={getPostUrlBySlug(entry.slug)}
+            image={entry.data.image}
+            description={entry.data.description}
+            draft={entry.data.draft}
+            pinned={entry.data.pinned}
+            class:list="onload-animation"
+            style={`animation-delay: calc(var(--content-delay) + ${(i+1) * interval}ms);`}
+        />
+    ))}
+</div>
