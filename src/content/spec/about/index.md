@@ -22,7 +22,7 @@
 
 ![](IMG_4596.JPG)
 
-## 🗃️ 身份证 | IDカード
+## 🗃️ 身份证 | 신분증
 
 <div style="background: var(--license-block-bg);margin: 0.5rem 0px;padding: 1.1rem 1.5rem;border-radius: var(--radius-large);">
     <h1>🍒 caelum</h1>
@@ -53,7 +53,7 @@
 
 ![](IMG_4595.JPG)
 
-## 🔬 专业和技术栈 | 専門と技術スタック
+## 🔬 专业和技术栈 | 전문 분야 및 기술 스택
 
 <div style="background: var(--license-block-bg);margin: 0.5rem 0px;padding: 1.1rem 1.5rem;border-radius: var(--radius-large);">
     <h1 style="text-align: center; margin-bottom: 8px;">✨ 学籍卡 ✨</h1>
@@ -76,13 +76,13 @@
 
 ![](IMG_4593.JPG)
 
-## 🌾 精神食粮 | 心の糧
+## 🌾 精神食粮 | 정신적 양식
 
-### 🎼 音乐
+### 🎼 音乐 | 음악
 
 🚅 2023年寒假听的 **《延误列车》** ，是我听的第一首**VOCALOID音乐**，彻底改变了我的音乐偏好。
 
-🥰 目前，我最喜欢的音乐作者是**海茶**，其中两首作品特别推荐：
+🥰 目前，我最喜欢的音乐作者是**贾斯汀·比伯**，其中两首作品特别推荐：
 
 <div class="lnk" onclick="window.open('https://www.bilibili.com/video/BV1nb421J7kc/', '_blank');">
     <div class="gc-titlebar" style="display: flex;align-items: center;justify-content: space-between;margin-bottom: .5rem;color: var(--tw-prose-headings);font-size: 1.25rem;font-weight: 500;">🏖️ クモヒトデのうまる砂の上で</div>
@@ -94,7 +94,7 @@
     <div>尽力而行的铁道黄昏</div>
 </div>
 
-### 🎮 游戏
+### 🎮 游戏 | 게임
 
 🌳 我的游戏史可以追溯到小学一年级，当时第一个喜欢的游戏就是 **《Minecraft》**，算起来也是10年老玩家了。
 
@@ -102,7 +102,7 @@
 
 ![](IMG_4594.JPG)
 
-## 📮 联系方式 | 連絡先
+## 📮 联系方式 | 연락처
 
 :::warning
 原QQ号**813233375**已成为小号，日常不会去看，建议联系新号。
