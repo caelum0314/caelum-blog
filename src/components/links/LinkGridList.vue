@@ -37,9 +37,9 @@ import { Icon } from "@iconify/vue";
 
 const links: { title: string; link: string; desc: string; img: string }[] = [
   {
-    link: "https://pinpe.top",
+    link: "https://caelum.xin",
     title: "Pinpe的云端",
-    img: "https://pinpe.top/head.jpg",
+    img: "https://caelum.xin/head.jpg",
     desc: "一个属于自己的云朵",
   },
   {

@@ -1,7 +1,7 @@
-import vercel from '@astrojs/vercel'
 import sitemap from '@astrojs/sitemap'
 import svelte from '@astrojs/svelte'
 import tailwind from '@astrojs/tailwind'
+import vercel from '@astrojs/vercel'
 import swup from '@swup/astro'
 import Compress from 'astro-compress'
 import icon from 'astro-icon'
@@ -21,12 +21,11 @@ import { remarkExcerpt } from './src/plugins/remark-excerpt.js'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
 import imageOptimizer from './src/services/image-service.js'
 
-
 import vue from '@astrojs/vue'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://pinpe.top/',
+  site: 'https://caelum.xin/',
   base: '/',
   trailingSlash: 'ignore',
   output: 'static',
@@ -52,7 +51,7 @@ export default defineConfig({
     }),
     icon({
       include: {
-        mdi: ["*"],
+        mdi: ['*'],
         'preprocess: vitePreprocess(),': ['*'],
         'fa6-brands': ['*'],
         'fa6-regular': ['*'],

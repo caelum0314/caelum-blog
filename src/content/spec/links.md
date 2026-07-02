@@ -22,7 +22,7 @@ draft: false
 - 不接受**大量非原创**内容的网站。
 - 不接受**文章数量过少**的网站。
 
-如果都满足了，你可以在任何地方联系我（例如 [留言](https://pinpe.top/comment/) ），需要包含以下信息：
+如果都满足了，你可以在任何地方联系我（例如 [留言](https://caelum.xin/comment/) ），需要包含以下信息：
 
 - 网站名称
 - 网址
@@ -37,6 +37,6 @@ draft: false
 
 |网站名称 | Pinpe 的云端|
 |:--|--:|
-|网址 | https://pinpe.top|
-|头像 URL | https://pinpe.top/head.jpg|
+|网址 | https://caelum.xin|
+|头像 URL | https://caelum.xin/head.jpg|
 |介绍 | 一个属于自己的云朵。|
