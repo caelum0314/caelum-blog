@@ -71,7 +71,7 @@
 |**🎮 游戏开发**|引擎|`RPG Maker` `Ren'Py`|
 ||语言|`Ren'Py Script`|
 |**🧩 杂项**|代码编辑器|`Visual Studio Code``Claude code``Cursor``Trae`|
-||操作系统|`ArchLinux` `Windows`|
+||操作系统|`DebianLinux` `Windows`|
 ||Shell|`Fish` `Bash`|
 
 ![](IMG_4593.JPG)
@@ -80,49 +80,40 @@
 
 ### 🎼 音乐 | 음악
 
-🚅 2023年寒假听的 **《延误列车》** ，是我听的第一首**VOCALOID音乐**，彻底改变了我的音乐偏好。
+🥰 目前，我最喜欢的音乐作者是**贾斯汀·比伯、邓紫棋**，其中两首作品特别推荐：
 
-🥰 目前，我最喜欢的音乐作者是**贾斯汀·比伯**，其中两首作品特别推荐：
-
-<div class="lnk" onclick="window.open('https://www.bilibili.com/video/BV1nb421J7kc/', '_blank');">
-    <div class="gc-titlebar" style="display: flex;align-items: center;justify-content: space-between;margin-bottom: .5rem;color: var(--tw-prose-headings);font-size: 1.25rem;font-weight: 500;">🏖️ クモヒトデのうまる砂の上で</div>
-    <div>就在那埋着蛇尾海星的沙滩之上</div>
+<div class="lnk" onclick="window.open('https://www.bilibili.com/video/BV1ZA411i7XM/', '_blank');">
+    <div class="gc-titlebar" style="display: flex;align-items: center;justify-content: space-between;margin-bottom: .5rem;color: var(--tw-prose-headings);font-size: 1.25rem;font-weight: 500;">🏖️ Baby</div>
+    <div>Justin Drew Bieber</div>
 </div>
 
-<div class="lnk" onclick="window.open('https://www.bilibili.com/video/BV1Xi421h7Zs/', '_blank');">
-    <div class="gc-titlebar" style="display: flex;align-items: center;justify-content: space-between;margin-bottom: .5rem;color: var(--tw-prose-headings);font-size: 1.25rem;font-weight: 500;">🛤️ なんとか鉄道の夕</div>
-    <div>尽力而行的铁道黄昏</div>
+<div class="lnk" onclick="window.open('https://www.bilibili.com/video/BV1v94y1N7sv/', '_blank');">
+    <div class="gc-titlebar" style="display: flex;align-items: center;justify-content: space-between;margin-bottom: .5rem;color: var(--tw-prose-headings);font-size: 1.25rem;font-weight: 500;">🛤️ 手心的蔷薇</div>
+    <div>邓紫棋&林俊杰</div>
 </div>
 
 ### 🎮 游戏 | 게임
 
-🌳 我的游戏史可以追溯到小学一年级，当时第一个喜欢的游戏就是 **《Minecraft》**，算起来也是10年老玩家了。
+🌳 我第现在喜欢的游戏就是 **《三角州行动》**，算起来也是2年老玩家了。
 
-👾 直到目前，我也钟爱于**独立**、**像素风**、**剧情优先**的游戏，例如 **《OMORI》**、**《Deltarune》**、**《OneShot》** 等。
+👾 直到目前，我也钟爱于**FPS**、**自由**的游戏。
 
 ![](IMG_4594.JPG)
 
 ## 📮 联系方式 | 연락처
 
-:::warning
-原QQ号**813233375**已成为小号，日常不会去看，建议联系新号。
-:::
 
 <table>
 <tr>
     <td><b>🐧 QQ</b></td>
-    <td><a href="https://qm.qq.com/q/IilUtyt28K" target="_blank">3776284379</a></td>
+    <td><a href="https://qm.qq.com/q/22A1y8IACE" target="_blank">3020389483</a></td>
 </tr>
 <tr>
     <td><b>📫 邮箱</b></td>
-    <td><a href="mailto:813233375@qq.com" target="_blank">813233375@qq.com</a></td>
+    <td><a href="mailto:caelum0314@163.com" target="_blank">caelum0314@163.com</a></td>
 </tr>
 <tr>
     <td><b>📺 哔哩哔哩</b></td>
-    <td><a href="https://space.bilibili.com/1099587474" target="_blank">1099587474</a></td>
-</tr>
-<tr>
-    <td><b>🦾 Steam</b></td>
-    <td><a href="https://steamcommunity.com/profiles/76561199468532983/" target="_blank">1508267255</a></td>
+    <td><a href="https://space.bilibili.com/1690463687" target="_blank">1690463687</a></td>
 </tr>
 </table>
