@@ -35,8 +35,8 @@ draft: false
 
 ## 我的信息
 
-|网站名称 | Pinpe 的云端|
+|网站名称 | Caelum 的云端|
 |:--|--:|
 |网址 | https://caelum.xin|
 |头像 URL | https://caelum.xin/head.jpg|
-|介绍 | 一个属于自己的云朵。|
+|介绍 | 莲出淤泥而不染，濯清涟而不妖。|
